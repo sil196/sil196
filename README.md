@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning Golang
 - 💞️ Don't mind 2 colobarate with someone in learning case
-- 📫 How to reach me ilinnik@gmail.com
+- 📫 How to reach me ilinnik999@gmail.com
 
 <!---
 sil196/sil196 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
